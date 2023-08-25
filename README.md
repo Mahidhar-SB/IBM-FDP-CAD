@@ -40,7 +40,3 @@
   <li><a href="https://docs.docker.com/engine/reference/commandline/cli/">Docker CLI Command Reference</a> - Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.</li>
 </ul>
 
-
-And follow the video: <a href = https://youtu.be/7xOyKl80iUk, target = _blank> Youtube Video </a>
-Note: Make sure that all the faculty create IBM SkillsBuild and Cloud account using feature code. Our 
-target is on feature code here.****
