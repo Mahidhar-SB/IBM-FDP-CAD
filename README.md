@@ -2,8 +2,9 @@
 <h1>This is the file repository of  IBM Faculty Build-A-Thon on Cloud Application Development<h1></h1>
 <h2>Useful Links</h2>
 <ul>
-  <li><a href = https://bit.ly/Faculty_Buildathon2023_SkillsBuild, target = "_blank"> <strong>SkillBuild Website </strong></a> </li>
+  <li><a href = https://bit.ly/Faculty_Buildathon2023_SkillsBuild target = "_blank"> <strong>SkillBuild Website </strong></a> : IBM Skills Build Website </li>
   <li><a href="https://cloud.ibm.com/login" target="_blank"><strong>IBM Cloud</strong></a>: Official website for IBM Cloud.</li>
+  <li><a href="https://youtu.be/7xOyKl80iUk" target="_blank"><b> IBM SkillsBuild and IBM Cloud account creation </b> </a>: This Video shows step by step how to create both accounts </li>
   <li><a href="https://youtu.be/4It0D0Nw00c" target="_blank"><strong>DevOps Tools Video</strong></a>: A suggested video to learn more about DevOps tools.</li>
 </ul>
 
@@ -39,4 +40,6 @@
   <li><a href="https://docs.docker.com/">Docker Documentation</a></li>
   <li><a href="https://docs.docker.com/engine/reference/commandline/cli/">Docker CLI Command Reference</a> - Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.</li>
 </ul>
+
+
 
